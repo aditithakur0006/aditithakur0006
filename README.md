@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
-- 🌱 I’m currently learning **Machine Learning,Web Development**
+- <p>🌱 I’m currently learning Machine Learning,Web Development</p>
 
 - 📫 How to reach me **aditithakur0660@gmail.com**
 
